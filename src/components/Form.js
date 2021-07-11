@@ -9,6 +9,7 @@ const Form = (props) => {
 
     axios.get(`https://api.github.com/users/${username}`).then((resp) => {
       props.onSubmit(resp.data);
+      console.log(resp.data);
       setUsername('');
     });
   };
