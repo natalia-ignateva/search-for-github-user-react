@@ -1,10 +1,12 @@
-# counter-react
+# search-for-github-user-react
 
-An counter app in React
+Search a GitHub user React app with GitHub Public API
 
 ## Built with
 
+- Node.js
 - React
+- Axios
 
 ## Acknowledgements
 
