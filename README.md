@@ -7,6 +7,7 @@ Search a GitHub user React app with GitHub Public API
 - Node.js
 - React
 - Axios
+- TailwindCSS
 
 ## Acknowledgements
 
